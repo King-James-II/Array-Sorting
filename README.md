@@ -1,4 +1,4 @@
-# Array Sorting: State Capitals Quiz
+# Array Sorting
 
 This Java program sorts a 2D array of state names and capitals, then quizzes the user on the capitals. It showcases the implementation of a Bubble Sort algorithm for array sorting and user input handling in Java.
 
